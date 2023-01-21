@@ -9,7 +9,7 @@ import asyncio
 
 client = commands.Bot(command_prefix="%", self_bot=True, help_command=None, intents=discord.Intents.all()
 
-token = "MTAyOTcwNzU0NTcyNTY1MzAxMg.GAS-oe.VmVlHxma1LEXMsZjb263BiiyltYqnmTAFfKbGk" 
+token = "insert token here" 
 
 ###################
 
